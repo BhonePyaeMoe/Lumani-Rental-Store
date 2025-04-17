@@ -1,0 +1,89 @@
+D:\Project\Lumani Rental Store\bin\Debug\Lumani Rental Store.exe.config
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\bin\Debug\Lumani Rental Store.exe.config
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\bin\Debug\Lumani Rental Store.exe
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\bin\Debug\Lumani Rental Store.pdb
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Admin_Register.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminLogin.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Appliance.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Brand.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Category.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerHome.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerLogin.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerRegister.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerWelcome.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminWelcome.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminProfile.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Properties.Resources.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Rent.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani Rental Store.csproj.GenerateResource.Cache
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani Rental Store.exe
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani Rental Store.pdb
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani Rental Store.csprojResolveAssemblyReference.cache
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerRentView.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminRentView.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminList.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminDashBoard.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminPanel.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerReview.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminReviewList.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.ApplianceList.resources
+D:\L4DC152\2nd Semester\DDOOCP\DDOOCP Assignment\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerList.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\bin\Debug\Lumani Rental Store.exe.config
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.exe
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.pdb
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\bin\Debug\Lumani Rental Store.exe
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\bin\Debug\Lumani Rental Store.pdb
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.csprojResolveAssemblyReference.cache
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Admin_Register.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminDashBoard.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminList.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminLogin.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminPanel.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminRentView.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminReviewList.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Appliance.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.ApplianceList.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Brand.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Category.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerHome.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerList.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerLogin.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerRegister.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerRentView.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerWelcome.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminWelcome.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminProfile.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Properties.Resources.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Rent.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerReview.resources
+D:\L4DC152\2nd Semester\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.csproj.GenerateResource.Cache
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\bin\Debug\Lumani Rental Store.exe.config
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\bin\Debug\Lumani Rental Store.exe
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\bin\Debug\Lumani Rental Store.pdb
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.csproj.AssemblyReference.cache
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Admin_Register.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminDashBoard.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminList.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminLogin.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminPanel.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminRentView.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminReviewList.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Appliance.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.ApplianceList.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Brand.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Category.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerHome.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerList.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerLogin.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerRegister.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerRentView.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerWelcome.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminWelcome.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.AdminProfile.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Properties.Resources.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.Rent.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani_Rental_Store.CustomerReview.resources
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.csproj.GenerateResource.cache
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.csproj.CoreCompileInputs.cache
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.exe
+C:\Study\L4DC\DDOOCP\BHONE PYAE MOE_P00198484_DDOOCP_GA\Lumani Rental Store\obj\Debug\Lumani Rental Store.pdb
